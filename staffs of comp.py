@@ -1,12 +1,4 @@
 '''
-@Author: your name
-@Date: 2020-05-28 00:22:56
-@LastEditTime: 2020-05-28 13:23:34
-@LastEditors: your name
-@Description: In User Settings Edit
-@FilePath: \python file\爬蟲\python_crawler\tcl.py
-'''
-'''
 @Author: ZHANG Yubo
 Crawl photos and information of ACADEMIC AND TEACHING STAFF in 
 https://www.comp.polyu.edu.hk/en-us/staffs/
