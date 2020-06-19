@@ -32,6 +32,7 @@ def printIdList(IdList):
 
 def main():
     IdList=[]
+    #各行业榜单的URL
     UrlList=["https://gov.weibo.com/rank/hangye/rank?area=buwei&datetype=3&type=1",
     "https://gov.weibo.com/rank/hangye/rank?area=waixuan&datetype=3&type=1",
     "https://gov.weibo.com/rank/hangye/rank?area=gongan&datetype=3&type=1",
